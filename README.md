@@ -22,6 +22,6 @@
   </li>
 </ul>
 
-![alt text](image.png)
+![פרה עיוורת](Gemini_Generated_Image_so8g9iso8g9iso8g.png)
 
 </div>
