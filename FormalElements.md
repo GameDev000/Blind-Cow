@@ -10,7 +10,7 @@
   <li><strong>שחקן בורח:</strong> עליו להימנע מלהיתפס – כל צעד או תנועה שלו יוצרים רעש שהפרה שומעת.</li>
 </ul>
 
-
+![פרה עיוורת](Gemini_Generated_Image_so8g9iso8g9iso8g.png)
 (Gimini)
 <hr>
 
