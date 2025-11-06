@@ -163,8 +163,25 @@
 <h2> סקירת משחקים דומים</h2>
 <ul>
   <li><strong>Catch (שוטרים וגנבים):</strong> משחק רדיפה ללא מרכיב של ראייה מוגבלת או חוויה חושית.</li>
+  <a href="https://apps.apple.com/us/app/catch-the-thief-3d/id1491476065">קישור</a>
+    <p align="center">
+      <img src="catch.png" alt="catch" width="400">
+    </p>
+    
+
+  
   <li><strong>Five Nights at Freddy’s:</strong> משחק בריחה בחושך עם ראות מוגבלת, אך הדמות הנרדפת היא זו שלא רואה, לא הרודפת.</li>
+  <a href="https://play.google.com/store/apps/details?id=com.scottgames.fivenightsatfreddys">קישור</a>
+      <p align="center">
+      <img src="taddy.png" alt="taddy" width="400">
+    </p>
+
+  
   <li><strong>Hello Neighbor:</strong> משחק התגנבות שבו יש מרכיב שמיעתי דומה, אך ללא אלמנט כיסוי עיניים.</li>
+  <a href="https://play.google.com/store/search?q=hello%20neighbor&c=apps">קישור</a>
+      <p align="center">
+      <img src="hello.png" alt="hello" width="400">
+    </p>
 </ul>
 
 <hr>
@@ -178,12 +195,5 @@
 
 <hr>
 
-<h3> חברי הצוות:</h3>
-<ul>
-  <li>רז אונונו</li>
-  <li>איתמר בבאי</li>
-  <li>טל בן סימון – ריפוי בעיסוק</li>
-  <li>טליה חורש – ריפוי בעיסוק</li>
-</ul>
 
 </div>
