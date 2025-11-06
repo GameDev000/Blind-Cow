@@ -159,9 +159,10 @@
 </ul>
 
 <hr>
-
+<div dir="rtl" lang="he">
 <h2> סקירת משחקים דומים</h2>
 <ul>
+  <div dir="rtl" lang="he">
   <li><strong>Catch (שוטרים וגנבים):</strong> משחק רדיפה ללא מרכיב של ראייה מוגבלת או חוויה חושית.</li>
   <a href="https://apps.apple.com/us/app/catch-the-thief-3d/id1491476065">קישור</a>
     <p align="center">
