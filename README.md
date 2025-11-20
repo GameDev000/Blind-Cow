@@ -48,6 +48,6 @@
 </div>
 
 
-![פרה עיוורת](Gemini_Generated_Image_so8g9iso8g9iso8g.png)
+![פרה עיוורת](Formals/Gemini_Generated_Image_so8g9iso8g9iso8g.png)
 
 </div>
