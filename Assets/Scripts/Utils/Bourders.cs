@@ -22,7 +22,7 @@ public class Bourders : MonoBehaviour
     }
 
     // Update is called once per frame
-   void FixedUpdate()
+    void FixedUpdate()
     {
         Vector3 mov = transform.position; //get the actual position
         mov.y = Mathf.Clamp(mov.y, minY, maxY); //lock the val

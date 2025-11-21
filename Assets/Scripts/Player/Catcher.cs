@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Catcher : MonoBehaviour
 {
-  private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
         runner runner = other.GetComponent<runner>();
         if (runner != null)

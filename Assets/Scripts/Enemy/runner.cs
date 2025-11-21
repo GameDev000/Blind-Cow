@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class runner : MonoBehaviour
 {
-     [SerializeField] private float speed = 3f;
+    [SerializeField] private float speed = 3f;
     [SerializeField] private float directionChangeInterval = 2f;
 
     private Vector2 moveDirection;
