@@ -1,5 +1,4 @@
-<html lang="he">
-<head>
+<div dir="rtl" lang="he"><head>
 
 <div class="box">
     <h2>תיאור פיתרון מטלה מתגלגלת 4 - תהליך ליבה</h2>
@@ -33,6 +32,7 @@
 <div class="box">
     <h2>ארכיטקטורת קוד</h2>
     <ul>
+        <div dir="rtl" lang="he">
         <li><strong>Player/InputMover:</strong> אחראי על תנועת השחקן.</li>
         <li><strong>Player/CowCatcher:</strong> מזהה תפיסת בורחים.</li>
         <li><strong>Enemies/Runner:</strong> תנועה רנדומלית ושינוי כיוון בקירות.</li>
