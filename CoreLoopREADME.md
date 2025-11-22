@@ -41,6 +41,53 @@
         <li><strong>UI:</strong> טיימר והמסכים הסופיים.</li>
     </ul>
 </div>
+<div class="box" style="text-align:center;">
+    <h2>תרשים UML</h2>
+
+<pre style="display:inline-block; text-align:left;">
++-------------------+          +------------------+
+|    GameManager    |          |      Runner      |
++-------------------+          +------------------+
+| - totalRunners    |          | - speed          |
+| - caughtRunners   |          | - moveDirection  |
+| - roundTime       |          +------------------+
+| - timerText       |          | +Update()        |
+| - winnerScreen    |          | +OnCollision     |
+| - loserScreen    |          +------------------+
++-------------------+
+| +OnRunnerCaught() |
+| +RestartLevel()   |
++---------+---------+
+          ^
+          |
++---------+---------+
+|   CowCatcher      |
++-------------------+
+| +OnTriggerEnter() |
++-------------------+
+          ^
+          |
++---------+----------------------------+
+|                 Cow                  |
++--------------------------------------+
+| Rigidbody2D + Collider2D רגיל        |
+| Child: CatchZone עם Trigger           |
++--------------------------------------+
+| +InputMover                           |
++--------------------------------------+
+
++-------------------+
+|     Bourders      |
++-------------------+
+| - minX, maxX      |
+| - minY, maxY      |
++-------------------+
+| +FixedUpdate()    |
++-------------------+
+</pre>
+</div>
+
+
 
 <div class="box">
     <h2>סיכום</h2>
